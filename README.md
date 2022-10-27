@@ -5,11 +5,14 @@ Mis skils actuales son:
 -CSS
 -JavaScript
 -Git
+-Sass
 
 Actualmente me encuentro estudiando:
 *PHP
 *MySQL
-*Sass
+*Rust
+*React
+
 
 Otros Skils:
 -Soporte a equipos de computo
