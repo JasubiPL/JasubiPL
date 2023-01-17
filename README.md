@@ -9,8 +9,7 @@ Mi meta es ser Software Engineer en Google 😎
 
 Actualmente me encuentro estudiando:
 
-- NodeJS
-- WebPack
+- C#
 - React
 
 
