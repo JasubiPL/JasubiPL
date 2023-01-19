@@ -1,7 +1,7 @@
 ## Hola! 
 ### Soy Front End Developer 💻🤘
 
-🔥🔥🔥Desarrollo sitios y aplicaciones web usando HTML, Sass y JavaScript.🔥🔥🔥
+🔥🔥🔥Desarrollo sitios, juegod y aplicaciones web usando HTML, css y JavaScript.🔥🔥🔥
 
 Actualmente, trabajo como analista web en ETN Turistar Lujo creando landing pages para nuestras campañas de marketing.
 
