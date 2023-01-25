@@ -1,7 +1,5 @@
-\begin{center}
-#¡Que tal! Soy JasubiP 👨‍💻
+<h1 lign="center">¡Que tal! Soy JasubiP 👨‍💻</h1>
 ### Soy Desarrollador JavaScript Full Stack 💻🤘
-\end{center}
 
 🔥🔥🔥Desarrollo sitios, juegos y aplicaciones web usando React y Node.🔥🔥🔥
 
