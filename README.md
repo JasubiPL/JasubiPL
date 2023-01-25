@@ -1,6 +1,6 @@
 <h1 align="center" width="600">¡Que tal! Soy JasubiP 👨‍💻</h1>
-### Soy Desarrollador JavaScript Full Stack 💻🤘
-
+<h3 align="center" width="600" color="skyblue">Soy Desarrollador JavaScript Full Stack 💻🤘</h3>
+<br>
 🔥🔥🔥Desarrollo sitios, juegos y aplicaciones web usando React y Node.🔥🔥🔥
 
 Actualmente, trabajo como analista web en ETN Turistar Lujo creando landing pages para nuestras campañas de marketing.
