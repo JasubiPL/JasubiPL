@@ -1,4 +1,4 @@
-<h1 lign="center">¡Que tal! Soy JasubiP 👨‍💻</h1>
+<h1 align="center" width="600">¡Que tal! Soy JasubiP 👨‍💻</h1>
 ### Soy Desarrollador JavaScript Full Stack 💻🤘
 
 🔥🔥🔥Desarrollo sitios, juegos y aplicaciones web usando React y Node.🔥🔥🔥
