@@ -1,16 +1,20 @@
-## Hola! 
-### Soy Front End Developer 💻🤘
+# ¡Qee tal! Soy JasubiP 👨‍💻
+### Soy Desarrollador JavaScript Full Stack 💻🤘
 
-🔥🔥🔥Desarrollo sitios, juegod y aplicaciones web usando HTML, css y JavaScript.🔥🔥🔥
+🔥🔥🔥Desarrollo sitios, juegos y aplicaciones web usando React y Node.🔥🔥🔥
 
 Actualmente, trabajo como analista web en ETN Turistar Lujo creando landing pages para nuestras campañas de marketing.
+En mi tiempo libre me gusta desarrollar juegos y aplicaciones web que reten mis habilidades y me obliguen a mejorar.
+Tengo un profundo interes en el desarrollo de videojuegos y la inteligencia artificial.
 
-Mi meta es ser Software Engineer en Google 😎
+Mi meta es ser Software Engineer en Google o crear una empresa de desarrollo😎
 
 Actualmente me encuentro estudiando:
 
 - C#
-- React
+- React (intermedio)
+- Node (intermedio)
+- Python
 
 
 
