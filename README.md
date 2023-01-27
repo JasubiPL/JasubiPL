@@ -1,4 +1,4 @@
-<h3 font-size="100px "align="center" width="600">¡Que tal! Soy JasubiP 👨‍💻</h3>
+<h3 "align="center" width="600">¡Que tal! Soy JasubiP 👨‍💻</h3>
 <h4 align="center" width="600" color="skyblue">Soy Desarrollador JavaScript Full Stack 💻🤘</h4>
 <br>
 🔥🔥🔥Desarrollo sitios, juegos y aplicaciones web usando React y Node.🔥🔥🔥
