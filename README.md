@@ -1,4 +1,4 @@
-<img align="center" src="./img/Imagotipo-Blanco.png" height="100px"/>
+<img align="center" src="./img/Imagotipo-Blanco.png" width="100px"/>
 
 <p align="center">Soy <strong>Desarrollador Front-end </strong> con +2 años de experiencia ⚛️</p>
 
