@@ -1,9 +1,9 @@
-<h3 align="center">🇲🇽 ¡Que tal! Soy Jasubi P 👨‍💻</h3>
+<h3 align="center">¡Que tal! Soy Jasubi P 👨‍💻</h3>
 
 <div style="display: flex; gap:10px; align-items:center; justify-content:center;">
-<img src="./img/javascript-icon.png" width="30px">
-<h4>Soy Desarrollador Front-end </h4>
-<img src="./img/React-icon.png" width="30px">
+<a><img src="./img/javascript-icon.png" width="30px"></a>
+<a><h4>Soy Desarrollador Front-end </h4></a>
+<a><img src="./img/React-icon.png" width="30px"></a>
 </div>
 
 <p align="center" style="font-weight:bold;">🔥🔥🔥 Desarrollo sitios, juegos y aplicaciones web 🔥🔥🔥</p>
