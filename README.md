@@ -12,3 +12,17 @@
 </div>
 
 <br>
+
+<h2>Mis mejores proyectos</h2>
+
+<tr>
+<td>
+    <a href="https://jasubip-memoramaspiderman.netlify.app/"><img width="300" src="./img/memorama-spiderman.png"/></a>
+</td>
+<td>
+     <a href="https://jasubip-adivinaelnumero.netlify.app/"><img width="300" src="./img/adivinaelnumero.png"/></a>
+</td>
+<td>
+    <a href="https://jasubip-todolist.netlify.app/"><img width="300" src="./img/todolist-js.png"/></a>
+</td>
+</tr>
