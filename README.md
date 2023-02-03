@@ -11,10 +11,7 @@ Mi meta es ser Software Engineer en Google o crear una empresa de desarrollo😎
 
 Actualmente me encuentro estudiando:
 
-- C#
 - React (intermedio)
-- Node (intermedio)
-- Python
 
 
 
