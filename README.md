@@ -1,16 +1,15 @@
-<h3 align="center">¡Que tal! Soy Jasubi P 👨‍💻</h3>
+<img align="center" src="./img/Imagotipo-Blanco.png" height="100px"/>
 
-<a>
-    <img src="./img/javascript-icon.png" width="30px">
-</a>
-<a>
-    <h4>Soy Desarrollador Front-end </h4>
-</a>
-<a>
-    <img src="./img/React-icon.png" width="30px">
-</a>
+<p align="center">Soy <strong>Desarrollador Front-end </strong> con +2 años de experiencia ⚛️</p>
 
-<p align="center" style="font-weight:bold;">🔥🔥🔥 Desarrollo sitios, juegos y aplicaciones web 🔥🔥🔥</p>
+<p align="center" style="font-weight:bold;">🔥🔥🔥 Desarrollo sitios, juegos y aplicaciones 🔥🔥🔥</p>
+
+<div align="center">
+    <a href="https://www.facebook.com/JasubiP/"><img src="./img/facebook-icon.png" width="30px"></a>
+    <a href="https://github.com/JasubiPL"><img src="./img/github-icon.png" width="30px"></a>
+    <a href="https://www.linkedin.com/in/jasubip/"><img src="./img/linkedin-icon.png" width="30px"></a>
+    <a href="https://twitter.com/JasubiP"><img src="./img/twitter-icon.png" width="30px"></a>
+</div>
 
 <br>
 
