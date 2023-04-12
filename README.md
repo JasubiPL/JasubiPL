@@ -13,16 +13,29 @@
 
 <br>
 
-<h2>Mis mejores proyectos 🤟🔥</h2>
+<h2>😎 Mis Blog 💻</h2>
+<a href="https://unaopinionmas.vercel.app/"><img width="100%" src="./img/NobodyCaresbanner.png"/></a>
+
 
 <tr>
+
+<br>
+<h2>🤟 Mis mejores proyectos Vanilla 🍦</h2>
 <td>
-    <a href="https://jasubip-memoramaspiderman.netlify.app/"><img width="270" src="./img/memorama-spiderman.png"/></a>
+    <a href="https://jasubip-memorama-spiderman.vercel.app/"><img width="270" src="./img/memorama-spiderman.png"/></a>
 </td>
 <td>
-     <a href="https://jasubip-adivinaelnumero.netlify.app/"><img width="270" src="./img/adivinaelnumero.png"/></a>
+     <a href="https://jasubip-adivinaelnumero.vercel.app/"><img width="270" src="./img/adivinaelnumero.png"/></a>
 </td>
 <td>
     <a href="https://jasubip-todolist.netlify.app/"><img width="270" src="./img/todolist-js.png"/></a>
+</td>
+</tr>
+<br>
+<br>
+<h2>🔥 Mis mejores proyectos React ⚛️</h2>
+<tr>
+<td>
+    <a href="https://web-app-mi-escuelita-virtual.vercel.app/"><img width="270" src="./img/miescuelitavirtual.png"/></a>
 </td>
 </tr>
