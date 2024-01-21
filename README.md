@@ -1,11 +1,10 @@
-<div align="center"><img align="center" src="./img/Imagotipo-Blanco-2.png" width="300px"/></div>
+<div style="border-radius:500px; overflow:hidden; margin: 0 auto; width:250px; margin-bottom:20px"><img align="center" src="./img/perfil.jpg" width="300px"/></div>
 
 <p align="center">🔥 Soy <strong>Desarrollador JavaScript Front-end </strong> con +2 años de experiencia 👨‍💻</p>
 
 <p align="center" style="font-weight:bold;"> ⚛️ Sitios 🌐 Juegos 🎮 Aplicaciones 📱</p>
 
 <div align="center">
-    <a href="https://www.facebook.com/JasubiP/"><img src="./img/facebook-icon.png" width="30px"></a>
     <a href="https://github.com/JasubiPL"><img src="./img/github-icon.png" width="30px"></a>
     <a href="https://www.linkedin.com/in/jasubip/"><img src="./img/linkedin-icon.png" width="30px"></a>
     <a href="https://twitter.com/JasubiP"><img src="./img/twitter-icon.png" width="30px"></a>
@@ -14,7 +13,7 @@
 <br>
 
 <h2>😎 Mis Blog 💻</h2>
-<a href="https://unaopinionmas.vercel.app/"><img width="100%" src="./img/NobodyCaresbanner.png"/></a>
+<a href="https://jasubip.vercel.app/"><img width="100%" src="./img/banner.jpg"/></a>
 
 
 <tr>
