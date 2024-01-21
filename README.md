@@ -1,5 +1,5 @@
-<div style="border-radius:500px; overflow:hidden; margin: 0 auto; width:250px; margin-bottom:20px"><img align="center" src="./img/Perfil.jpg" width="300px"/></div>
-
+<div align="center"><img align="center" src="./img/Perfil.jpg" width="300px"/></div>
+<br>
 <p align="center">🔥 Soy <strong>Desarrollador JavaScript Front-end </strong> con +2 años de experiencia 👨‍💻</p>
 
 <p align="center" style="font-weight:bold;"> ⚛️ Sitios 🌐 Juegos 🎮 Aplicaciones 📱</p>
